@@ -1,6 +1,7 @@
 using System;
 using Xunit;
 using ChallengeApp;
+using System.Collections.Generic;
 
 namespace ProgramUji
 {
@@ -42,7 +43,7 @@ namespace ProgramUji
         [Fact]
         public void SeparatorTest()
         {
-            Assert.Equal(expected2, Separator.Run("minum susu sapi",'*'));
+            Assert.Equal(expected2, Separator.Run("minum susu sapi", '*'));
         }
 
         string expected3 = "mInUm AIr sUsU";
@@ -52,13 +53,31 @@ namespace ProgramUji
             Assert.Equal(expected3, VowelToUppercase.Run("minum air susu"));
         }
 
-        int[] firstArray = {1, 3, -5, 4};
-        int[] secondArray = {1, 4, -5, -2};
-        int[] expected4 = {1, 12, 25, -8};
-         [Fact]
+        int[] firstArray = { 1, 3, -5, 4 };
+        int[] secondArray = { 1, 4, -5, -2 };
+        int[] expected4 = { 1, 12, 25, -8 };
+        [Fact]
         public void MultipleArrayTest()
         {
-            Assert.Equal(expected4, MultiplicationOfTwoArray.MultiplyArray(firstArray,secondArray));
+            Assert.Equal(expected4, MultiplicationOfTwoArray.MultiplyArray(firstArray, secondArray));
+        }
+
+        Dictionary<int, int> dictionTest = new Dictionary<int, int>()
+        {
+            {1,3},
+            {2,1},
+            {3,3},
+            {4,2},
+            {5,3}
+        };
+
+        public bool cek()
+        {
+            dictionTest.TryGetValue(1,out 3);
+        }
+        public void DuplicateTest()
+        {
+            Assert.Equal(cek(), HowManyDuplicates.Run());
         }
     }
 }

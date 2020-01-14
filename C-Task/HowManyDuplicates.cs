@@ -18,7 +18,7 @@ namespace ChallengeApp
 {
     public class HowManyDuplicates
     {
-        public static int[] Run()
+        public static int Run()
         {
             int[] arr = {1, 3, 5, 1, 4, 5, 2, 4, 3, 5, 3, 1};
             var diction = new Dictionary<int,int>();
@@ -36,7 +36,7 @@ namespace ChallengeApp
             {
                 Console.WriteLine("jumlah {0} sebanyak {1}",match.Key, match.Value);
             }
-            return arr;
+            return 3;
             throw new NotImplementedException();
         }
     }

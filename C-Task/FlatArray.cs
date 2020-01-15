@@ -16,12 +16,12 @@ namespace ChallengeApp
 {
     public class FlatArray
     {
-        public static int[] Combine(params int[] arrays)
+        public static int[] Combine(params int[][] arrays)
         {
         int[] theFirstArray = {2, 52, 56, 12, 3};
         int[] theSecondArray = {1, 0, 65, 42};
         int[] theThirdArray = {3, 4, 6}; 
-
+     
         var list = new List<int>();
         list.AddRange(theFirstArray);
         list.AddRange(theSecondArray);

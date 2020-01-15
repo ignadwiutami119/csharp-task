@@ -35,9 +35,10 @@ namespace ChallengeApp
             MultiplicationOfTwoArray.MultiplyArray(firstArray, secondArray);
 
             //-------------Count Duplicate-----------//
+            int[] duplicate = { 1, 3, 5, 1, 4, 5, 2, 4, 3, 5, 3, 1 };
             Console.WriteLine("\n");
             Console.WriteLine("------------Count Duplicate-----------");
-            HowManyDuplicates.Run();
+            HowManyDuplicates.Run(duplicate);
 
             //-------------Separator------------//
             Console.WriteLine("\n");

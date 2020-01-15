@@ -20,3 +20,14 @@ G:\learnC#\10Januari\C-Task\bin\Debug\netcoreapp3.0\ChallengeApp.runtimeconfig.j
 G:\learnC#\10Januari\C-Task\bin\Debug\netcoreapp3.0\ChallengeApp.runtimeconfig.dev.json
 G:\learnC#\10Januari\C-Task\bin\Debug\netcoreapp3.0\ChallengeApp.dll
 G:\learnC#\10Januari\C-Task\bin\Debug\netcoreapp3.0\ChallengeApp.pdb
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\bin\Debug\netcoreapp3.0\ChallengeApp.exe
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\bin\Debug\netcoreapp3.0\ChallengeApp.deps.json
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\bin\Debug\netcoreapp3.0\ChallengeApp.runtimeconfig.json
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\bin\Debug\netcoreapp3.0\ChallengeApp.runtimeconfig.dev.json
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\bin\Debug\netcoreapp3.0\ChallengeApp.dll
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\bin\Debug\netcoreapp3.0\ChallengeApp.pdb
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\obj\Debug\netcoreapp3.0\ChallengeApp.csprojAssemblyReference.cache
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\obj\Debug\netcoreapp3.0\ChallengeApp.AssemblyInfoInputs.cache
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\obj\Debug\netcoreapp3.0\ChallengeApp.AssemblyInfo.cs
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\obj\Debug\netcoreapp3.0\ChallengeApp.dll
+D:\TRAININGC#\10Januaribaru\csharp-task\C-Task\obj\Debug\netcoreapp3.0\ChallengeApp.pdb

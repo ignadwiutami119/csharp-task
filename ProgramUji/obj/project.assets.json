@@ -6596,19 +6596,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\": {}
+    "D:\\Users\\bsi50132\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\learnC#\\10Januari\\ProgramUji\\ProgramUji.csproj",
+      "projectUniqueName": "D:\\TRAININGC#\\10Januaribaru\\csharp-task\\ProgramUji\\ProgramUji.csproj",
       "projectName": "ProgramUji",
-      "projectPath": "G:\\learnC#\\10Januari\\ProgramUji\\ProgramUji.csproj",
-      "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
-      "outputPath": "G:\\learnC#\\10Januari\\ProgramUji\\obj\\",
+      "projectPath": "D:\\TRAININGC#\\10Januaribaru\\csharp-task\\ProgramUji\\ProgramUji.csproj",
+      "packagesPath": "D:\\Users\\bsi50132\\.nuget\\packages\\",
+      "outputPath": "D:\\TRAININGC#\\10Januaribaru\\csharp-task\\ProgramUji\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "D:\\Users\\bsi50132\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -6619,8 +6623,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "G:\\learnC#\\10Januari\\C-Task\\ChallengeApp.csproj": {
-              "projectPath": "G:\\learnC#\\10Januari\\C-Task\\ChallengeApp.csproj"
+            "D:\\TRAININGC#\\10Januaribaru\\csharp-task\\C-Task\\ChallengeApp.csproj": {
+              "projectPath": "D:\\TRAININGC#\\10Januaribaru\\csharp-task\\C-Task\\ChallengeApp.csproj"
             }
           }
         }
@@ -6666,7 +6670,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
